@@ -1,0 +1,2 @@
+think about using -ggdb to make executables more compatible with gdb.
+example: cc -Wall -Wextra -pedantic -ggdb -o bin/ex4/ex4-3 4_13/ex4-3.c && bin/ex4/ex4-3
